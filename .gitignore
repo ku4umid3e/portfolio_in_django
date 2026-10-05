@@ -5,4 +5,10 @@ venv/
 *.bmp
 *.pyc
 .vscode/
-
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+db.sqlite3
+staticfiles/
